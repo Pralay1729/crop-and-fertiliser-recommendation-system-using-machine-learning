@@ -1,4 +1,3 @@
-# crop-and-fertiliser-recommendation-system-using-machine-learning
 # edunet
 # Crop and Fertilizer Recommendation System using Machine Learning
 
@@ -63,3 +62,4 @@ Output: Recommended fertilizer type
 Model File: fertilizer_model.sav
 
 Scaler: fertilizer_scaler.sav
+
